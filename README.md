@@ -1,7 +1,7 @@
-planck
-======
+planck-thatsme
+==============
 
-0 line application template
+About me demo application.
 
 ## Documentation
 
